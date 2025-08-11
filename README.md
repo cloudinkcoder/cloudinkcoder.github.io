@@ -1,4 +1,4 @@
-## Welcome to Aaron's homepage.
+Welcome to Aaron's homepage.
 
 I've permanently moved my website from [cloudinkcoder.github.io](https://cloudinkcoder.github.io) to [zwchen.pages.dev](https://zwchen.pages.dev).
 
